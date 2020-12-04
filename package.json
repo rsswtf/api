@@ -14,7 +14,7 @@
     "lodash": "^4.17.15",
     "ow": "^0.17.0",
     "@docset/mercury-parser": "^2.2.3",
-    "highlight.js": "^9.18.1",
+    "highlight.js": "^10.4.1",
     "original": "^1.0.2",
     "psl": "^1.7.0",
     "rss-parser": "^3.7.5",
