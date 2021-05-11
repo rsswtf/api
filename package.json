@@ -11,7 +11,7 @@
     "image-size": "^0.8.3",
     "is-svg": "^4.2.1",
     "is-url": "^1.2.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "ow": "^0.17.0",
     "@docset/mercury-parser": "^2.2.3",
     "highlight.js": "^9.18.1",
