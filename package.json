@@ -6,7 +6,7 @@
     "color-hash": "^1.0.3",
     "crypto-random-string": "^3.1.0",
     "dotenv-extended": "^2.7.1",
-    "file-type": "^13.1.2",
+    "file-type": "^16.5.4",
     "got": "^10.6.0",
     "image-size": "^0.8.3",
     "is-svg": "^4.2.1",
